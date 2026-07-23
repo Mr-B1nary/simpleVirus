@@ -1,4 +1,4 @@
-# Simple Process Launcher (Python)
+# Simple Process Launcher (Python) |  Developed by Mr-B1nary
 
 > A simple educational Python script demonstrating how to launch applications on Windows using the `os` module.
 
@@ -106,13 +106,16 @@ This repository is designed for beginners learning:
 - The `os` module
 - Executing system commands
 - Windows command-line basics
+---
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://instagram.com/mr_b1nary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_b1nary" height="30" width="40" /></a>
+<a href="https://t.me/Mr_B1naryy" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="mr_b1nary" height="30" width="40" /></a><br>
+    ⭐ If you like this project, give it a star⭐<br>
+    
+[![GitHub stars](https://img.shields.io/github/stars/Mr-B1nary/Timer?style=for-the-badge&logo=github&color=yellow)](https://github.com/Mr-B1nary/Timer/stargazers)[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mr-B1nary)
+</p>
 
-## License
 
-This project is released under the MIT License.
 
-## Author
 
-**Mr-B1nary**
-
-GitHub: https://github.com/Mr-B1nary
